@@ -10,7 +10,7 @@ I'm Uday Bhanu, a passionate Front-End Developer with a flair for crafting delig
 
 💬 **Ask Me About**: Front-end development, HTML, CSS, JavaScript, React, and all things related to building modern web applications.
 
-📫 **How to Reach Me**: You can connect with me through email at [bhanusharm122@gmail.com] or find me on [LinkedIn](https://www.linkedin.com/in/uday-bhanu-91b272240/).
+📫 **How to Reach Me**: You can connect with me through email at bhanusharm122@gmail.com or find me on LinkedIn(https://www.linkedin.com/in/uday-bhanu-91b272240/).
 
 😄 **Pronouns**: [He/Him]  - whichever you prefer!
 
